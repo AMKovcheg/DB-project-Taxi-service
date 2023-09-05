@@ -1,0 +1,1 @@
+select * from taxi.driver_view;

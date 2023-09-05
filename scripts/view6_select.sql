@@ -1,0 +1,1 @@
+select * from taxi.clients_stops;
